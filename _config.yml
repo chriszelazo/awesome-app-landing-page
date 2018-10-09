@@ -8,8 +8,8 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  name: Starling # REQUIRED - Enter your app name
+  ios_id: 1386611974 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
@@ -33,7 +33,7 @@ app:
   # 640x1136px
 
   #app_twitter: # uncomment if the app has a twitter account "@my-awesome-app"
-  #creator_twitter: # uncomment if creator has a twitter account "@awesome-dev"
+  creator_twitter: @chris_zelazo # uncomment if creator has a twitter account "@awesome-dev"
   #social_image: # uncomment and add an image - defaults to icon
   # This will show up when your url is shared on sites like facebook and twitter
   # To update use path relative to project root with no leading slash:
@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: A HackerNews Client # Optional
+marketing_desc: 
 
 #
 # Social Links
@@ -85,7 +85,7 @@ background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Option
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
-download_button_background_color: "#0191FF" # Optional
+download_button_background_color: "#FF9422" # Optional
 download_button_text_color: white; # Optional
 
 #
@@ -93,8 +93,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: Starling # Optional - Enter your site title
+description: A HackerNews Client for iOS# Optional - Enter your site description
 
 #
 # Google Analytics
@@ -109,7 +109,7 @@ google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tra
 # Disclaimer:
 # This will default to using the author's affiliate token if left blank
 #
-itunes_affiliate_token: # Optional
+itunes_affiliate_token: xxxxxxx # Optional
 
 #
 # !! You don't need to change any of the configuration flags below !!
