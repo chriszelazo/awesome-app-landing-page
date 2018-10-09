@@ -43,7 +43,7 @@ app:
 # Marketing
 #
 marketing_header: A HackerNews Client # Optional
-marketing_desc: 
+marketing_desc:
 
 #
 # Social Links
@@ -75,13 +75,13 @@ enable:
 # * iphone-se-space-gray-vertical
 # * ipod-touch-blue-vertical
 #
-device: iphone-se-silver-vertical # REQUIRED
+device: iphone-x-min-dark-vertical # REQUIRED
 
 #
 # Theme Settings
 #
-background_color: "#989898" # Optional
-background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_color: "#343434" # Optional
+background_image:  # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
